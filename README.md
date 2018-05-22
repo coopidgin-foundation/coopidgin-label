@@ -1,5 +1,5 @@
 # coopidgin-label
-The coopidgin label is a proposition of label for international auxiliary language communities who think documentation should be open-source and who want to try self-management by polls.
+The coopidgin label is a proposition of label for international auxiliary language communities that think documentation should be open-source and that want to try self-management by polls.
 
 ## Rules
 An auxlang with the label coopidgin means:
