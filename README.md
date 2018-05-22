@@ -19,7 +19,7 @@ The purpose of this label is to allow every speaker (in just a few mouse clicks)
 
 ## Table
 
-Date | Documentation | Copyright | Source | Open polls | Solidarity with other auxlangs |
+Date | Documentation | Copyright | Source | Open polls | Comments |
 ------------ | ------------- | ------------ | ------------- | ------------ | ------------- | 
 1928 | Novial28 | public domain | no | | |
 1937 | Neo | private | no | | |
