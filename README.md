@@ -49,7 +49,7 @@ Date | Documentation | Copyright | Source | Open polls | Solidarity with other a
 2007 | Paqatyl | not clear | no | | |
 2007 | Pandunia | private | **yes** | | |
 2008 | Ardano | private | no | | |
-2010 | Sibelingua | **public (but short)** | **yes** | | |
+2010 | Sibelingua | **public** | **yes (but short)** | | |
 2011 | Angos | **CC by-sa** | no | | |
 2012 | Fasile21 | private | no | | |
 2012 | Kah | private | no | | |
@@ -73,4 +73,4 @@ You can also join the "coopidgin-foundation" group to be able to edit and valida
 
 And above all, here you can create repositories to host your language projects, if you have no place elsewhere.
 
-Coopidgins would belong to everyone and would be quickly to improve or to recycle. So give them a chance.
+Coopidgin languages would belong to everyone and would be quickly to improve or to recycle. So please give them a chance.
