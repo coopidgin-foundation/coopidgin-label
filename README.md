@@ -58,13 +58,13 @@ Date | Language | copyright of recent doc. | usable sources | Open polls | Posit
 1998 | Elefen | **CC by-sa** | no | | on the wiki |
 1998 | Novial98 | private | no | | |
 1998 | Earth Minimal | private | no | | |
-2001 | Mondezo | private | yes (very short html) | | |
+2001 | Mondezo | private | yes (short html page) | | |
 2002 | Mondlango | **public** | no | | |
 2003 | Sasxsek | private | no | | |
 2003 | Arlipo | private | no | | |
 2003 | Atlango | private | no | | |
 2004 | Ayola | private | no | | |
-2004 | Ygyde | **public** | **yes** (short HTML page)| | yes |
+2004 | Ygyde | **public** | yes (short HTML page)| | yes |
 2005 | Unish | private | no | | |
 2005 | Neo Patwa | private | no | | |
 2006 | Lidepla | private | no | | |
@@ -74,7 +74,7 @@ Date | Language | copyright of recent doc. | usable sources | Open polls | Posit
 2007 | Paqatyl | not clear | no | | |
 2007 | Pandunia | private | **yes** | | on the old website |
 2008 | Ardano | private | no | | |
-2010 | Sibelingua | **public** | **yes** (short Word page) | | yes |
+2010 | Sibelingua | **public** | yes (short Word page) | | yes |
 2010 | Populido | private | no | | |
 2011 | Angos | **CC by-sa** | no | | |
 2011 | Mondeza | private | no | | |
@@ -98,8 +98,9 @@ Date | Language | copyright of recent doc. | usable sources | Open polls | Posit
 2018 | Dunian | private | **yes** | | |
 ... | Umin | private | no | | |
 
-(This table is a work in progress. So, please, warn me if you see an error)
-(If you're not familiar with Github, you can communicate via https://www.reddit.com/r/auxlangs/ )
+(This table is a work in progress. So, please, warn me if you see an error)  
+(If you're not familiar with Github, you can communicate via https://www.reddit.com/r/auxlangs/ )  
+(By the way, I never understood the concrete difference between "CC by" and "CC by-sa" licenses...)
 
 ## Conclusion
 
