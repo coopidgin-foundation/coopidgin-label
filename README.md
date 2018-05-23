@@ -96,7 +96,7 @@ Date | Language | copyright of recent doc. | usable sources | Open polls | Posit
 
 Do not hesitate to register on GitHub. You can thus contribute to improve the definition of the label "coopidgin" by editing the files and sending a pull request (a validation request).
 
-You can also join the "coopidgin-foundation" group to be able to edit and validate the files directly. You can write in "Markdown" markup language, which is intuitive, or write in plain text if you prefer.
+You can also join the "coopidgin-foundation" group to be able to edit and validate the files directly. You can write with "Markdown" markup language, which is intuitive, or in plain text if you prefer.
 
 And above all, here you can create repositories to host your language projects, if you have no place elsewhere.
 
