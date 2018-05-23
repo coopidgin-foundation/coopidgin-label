@@ -1,5 +1,5 @@
 # coopidgin-label
-The coopidgin label is a proposition of label for international auxiliary language communities that think documentation should be open-source and that want to try self-management by polls.
+The coopidgin label is a proposition of label for international auxiliary language communities wich think documentation should be open-source and which want to try self-management by polls.
 
 ## Rules
 An auxlang with the label coopidgin means:
@@ -8,62 +8,89 @@ An auxlang with the label coopidgin means:
 2. The language evolution is made by polls. All speakers can vote and submite new polls.
 3. The documentation informs about some other auxiliary language projects, and does not claim that its project is the best.
 
-Currently, there are no auxiliary languages that meet these three criteria.
+Currently, there is no auxiliary language project that really meet these three criteria.
 
 ## Purpose
 The purpose of this label is to allow every speaker (in just a few mouse clicks):
 
 1. to takeover an abandoned project.
 2. to contribute to the evolution of a living project.
-3. to fork a project to experience changes or create a new one.
+3. to fork a project to experience some modifications on it, or to create a new language.
 
 ## Table
 
-Date | Documentation | Copyright | Source | Open polls | Comments |
+Date | Language | copyright of recent doc. | usable sources | Open polls | Positive links |
 ------------ | ------------- | ------------ | ------------- | ------------ | ------------- | 
-1928 | Novial28 | public domain | no | | |
-1937 | Neo | private | no | | |
+1827 | Solresol | mixed | mixed | | |
+1839 | Weltsprache | no recent doc. | no | | |
+1868 | Universalglot | no recent doc. | no | | |
+1880 | Volapük | private | no | | |
+1887 | Esperanto | private | no | | |
+1888 | Mundolinco | no recent doc. | no | | |
+1902 | Idiom Neutral | no recent doc. | no | | |
+1904 | Spokil | no recent doc. | no | | |
+1907 | Ido | private | no | | |
+1908 | Adjuvilo | no recent doc. | no | | |
+1922 | Occidental | no recent doc. | no | | |
+1928 | Novial | private | no | | |
+1935 | Sona | no recent doc. | no | | |
+1937 | Neo | no recent doc. | no | | |
+1937 | Esperanto II | no recent doc. | no | | |
+1943 | Interglosa | no recent doc. | no | | |
+1951 | Interlingua | private | no | | on the wiki |
 1951 | Gestuno | private | no | | |
-1956 | Intal | private | no | | |
-1957 | Sistemfrater | private | no | | |
+1956 | Intal | no recent doc. | no | | |
+1957 | Sistemfrater | no recent doc. | no | | |
 1962 | Babm | private | no | | |
-1970 | Afrihili | private | no | | |
-1978 | Kotava | **mixed** | no | | |
+1970 | Afrihili | no recent doc. | no | | |
+1978 | Kotava | mixed | no | | |
 1985 | Glosa | private | no | | |
+1986 | Uropi | private | no | | |
+1987 | Lojban | **CC by-sa** | **yes** | | |
 1989 | Dejeru Sapuho | private | no | | |
 1995 | Vorlin | **CC by-nc-sa** | no | | |
 1996 | Tceqli | private | no | | |
 1997 | Noxilo | private | no | | | 
 1997 | Frater2 | private | no | | |
-1998 | Elefen | **CC by-sa** | no | | |
+1998 | Elefen | **CC by-sa** | no | | on the wiki |
 1998 | Novial98 | private | no | | |
 2002 | Mondlango | **public** | no | | |
 2003 | Sasxsek | private | no | | |
 2003 | Arlipo | private | no | | |
 2003 | Atlango | private | no | | |
 2004 | Ayola | private | no | | |
+2004 | Ygyde | **public** | **yes** (short HTML page)| | yes |
 2005 | Unish | private | no | | |
 2005 | Neo Patwa | private | no | | |
 2006 | Lidepla | private | no | | |
 2006 | Vuyamu | private | no | | |
+2007 | Sambahsa | CC by-nc-nd | no | | |
 2007 | Paqatyl | not clear | no | | |
-2007 | Pandunia | private | **yes** | | |
+2007 | Pandunia | private | **yes** | | on the old website |
 2008 | Ardano | private | no | | |
-2010 | Sibelingua | **public** | **yes (but short)** | | |
+2010 | Sibelingua | **public** | **yes** (short Word page) | | yes |
+2010 | Populido | private | no | | |
 2011 | Angos | **CC by-sa** | no | | |
 2012 | Fasile21 | private | no | | |
-2012 | Kah | private | no | | |
-2012 | Mundezo | private | no | | |
-2014 | Seytil | private | no | | |
-2016 | Novlat | **CC by** | no | | |
+2012 | Kah | private | no | | **yes** |
+2012 | Mundezo | private | no | | **yes** |
+2012 | Vötgil | private | no | 
+2014 | Seytil | private | no | | **yes** |
+2016 | Novlat | **CC by** | no | | **yes** |
+2017 | Simplingua | private | half | | | |
 2017 | Eselano | private | no | | |
 2017 | Atlas | **CC by** | no | | |
 2017 | Takad | private | no | | |
+2017 | Sarata | private | **yes** (google drive) | | |
 2017 | Terwene | private | no | | |
+2017 | Toaq | **CC by-nc-sa** | no | | |
 2017 | Heli | private | **yes** | | |
+2018 | Koten | private | no | | |
 2018 | Dunian | private | **yes** | | |
+... | Umin | private | no | | |
 
 (This table is a work in progress. So, please, warn me if you see an error)
+(If you're not familiar with Github, you can communicate via https://www.reddit.com/r/auxlangs/ )
 
 ## Conclusion
 
