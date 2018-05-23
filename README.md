@@ -59,6 +59,7 @@ Date | Language | copyright of recent doc. | usable sources | Open polls | Posit
 1998 | Novial98 | private | no | | |
 1998 | Earth Minimal | private | no | | |
 2001 | Mondezo | private | yes (short html page) | | |
+2001 | Toki Pona | private | no | | |
 2002 | Mondlango | **public** | no | | |
 2003 | Sasxsek | private | no | | |
 2003 | Arlipo | private | no | | |
