@@ -27,11 +27,14 @@ Date | Language | copyright of recent doc. | usable sources | Open polls | Posit
 1880 | Volapük | private | no | | |
 1887 | Esperanto | private | no | | |
 1888 | Mundolinco | no recent doc. | no | | |
+1894 | Esperanto 1894 | no recent doc. | no | | |
+1900 | Bolak | no recent doc. | no | | |
 1902 | Idiom Neutral | no recent doc. | no | | |
 1904 | Spokil | no recent doc. | no | | |
 1907 | Ido | private | no | | |
 1908 | Adjuvilo | no recent doc. | no | | |
 1922 | Occidental | no recent doc. | no | | |
+1925 | Nov-Esperanto | private | no | | |
 1928 | Novial | private | no | | |
 1935 | Sona | no recent doc. | no | | |
 1937 | Neo | no recent doc. | no | | |
@@ -54,6 +57,8 @@ Date | Language | copyright of recent doc. | usable sources | Open polls | Posit
 1997 | Frater2 | private | no | | |
 1998 | Elefen | **CC by-sa** | no | | on the wiki |
 1998 | Novial98 | private | no | | |
+1998 | Earth Minimal | private | no | | |
+2001 | Mondezo | private | yes (very short html) | | |
 2002 | Mondlango | **public** | no | | |
 2003 | Sasxsek | private | no | | |
 2003 | Arlipo | private | no | | |
@@ -63,6 +68,7 @@ Date | Language | copyright of recent doc. | usable sources | Open polls | Posit
 2005 | Unish | private | no | | |
 2005 | Neo Patwa | private | no | | |
 2006 | Lidepla | private | no | | |
+2006 | Vorlin | **CC by-nc-sa** | no | | |
 2006 | Vuyamu | private | no | | |
 2007 | Sambahsa | CC by-nc-nd | no | | |
 2007 | Paqatyl | not clear | no | | |
@@ -71,11 +77,14 @@ Date | Language | copyright of recent doc. | usable sources | Open polls | Posit
 2010 | Sibelingua | **public** | **yes** (short Word page) | | yes |
 2010 | Populido | private | no | | |
 2011 | Angos | **CC by-sa** | no | | |
+2011 | Mondeza | private | no | | |
 2012 | Fasile21 | private | no | | |
 2012 | Kah | private | no | | **yes** |
-2012 | Mundezo | private | no | | **yes** |
-2012 | Vötgil | private | no | 
+2012 | Arwelo/Mundezo | private | no | | **yes** |
+2012 | Vötgil | private | no | | |
+2012 | Elefanto | private | no | | |
 2014 | Seytil | private | no | | **yes** |
+2015 | Lingue simple | private | no | | |
 2016 | Novlat | **CC by** | no | | **yes** |
 2017 | Simplingua | private | half | | | |
 2017 | Eselano | private | no | | |
