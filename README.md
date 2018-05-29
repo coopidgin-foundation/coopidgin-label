@@ -5,7 +5,7 @@ The coopidgin label is a proposition of label for international auxiliary langua
 An auxlang with the label coopidgin means:
 
 1. The main documentation is published under open-source license and the sources are available.
-2. The language evolution is made by polls. All speakers can vote and submite new polls.
+2. The language evolution is made by polls written in the language itself. All speakers can vote and submite new polls.
 3. The documentation informs about some other auxiliary language projects, and does not claim that its project is the best.
 
 Currently, there is no auxiliary language project that really meet these three criteria.
