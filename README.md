@@ -10,6 +10,8 @@ An auxlang with the label coopidgin means:
 
 Currently, there is no auxiliary language project that really meet these three criteria.
 
+(I think the main goal of a coopidgin auxlang should be to become one lingua franca between auxiliary language creators, because it is really too ridiculous to claim to become THE world's auxiliary language: you'd immediately lose all credibility by having this claim. But I can't add a fourth point, it would be far too directive, and poll is still a big point...)
+
 ## Purpose
 The purpose of this label is to allow every speaker (in just a few mouse clicks):
 
