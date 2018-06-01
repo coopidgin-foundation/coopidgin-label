@@ -75,7 +75,7 @@ Date | Language | copyright of recent doc. | usable sources | Open polls | Posit
 2006 | Vuyamu | private | no | | |
 2007 | Sambahsa | CC by-nc-nd | no | | |
 2007 | Paqatyl | not clear | no | | |
-2007 | Pandunia | private | **yes** | | on the old website |
+2007 | Pandunia | **CC by** | **yes** | | on the old website |
 2008 | Ardano | private | no | | |
 2010 | Sibelingua | **public** | yes (short Word page) | | yes |
 2010 | Populido | private | no | | |
@@ -98,7 +98,7 @@ Date | Language | copyright of recent doc. | usable sources | Open polls | Posit
 2017 | Toaq | **CC by-nc-sa** | no | | |
 2017 | Heli | private | **yes** | | |
 2018 | Koten | private | no | | |
-2018 | Dunian | private | **yes** | | |
+2018 | Dunian | **CC by** | **yes** | | |
 ... | Umin | private | no | | |
 
 (This table is a work in progress. So, please, warn me if you see an error)  
