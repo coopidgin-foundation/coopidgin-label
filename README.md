@@ -29,6 +29,7 @@ Date | Language | copyright of recent doc. | usable sources | Open polls | Posit
 1880 | Volapük | private | no | | |
 1887 | Esperanto | private | no | | |
 1888 | Mundolinco | no recent doc. | no | | |
+1888 | Kosmos | no recent doc. | no | | |
 1894 | Esperanto 1894 | no recent doc. | no | | |
 1900 | Bolak | no recent doc. | no | | |
 1902 | Idiom Neutral | no recent doc. | no | | |
