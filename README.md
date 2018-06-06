@@ -17,7 +17,7 @@ The purpose of this label is to allow every speaker (in just a few mouse clicks)
 
 1. to takeover an abandoned project.
 2. to contribute to the evolution of a living project.
-3. to fork a project to experience some modifications on it, or to create a new language.
+3. to fork a project in order to: experience some modifications on it or create a new language.
 
 ## Table
 
