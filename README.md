@@ -53,6 +53,7 @@ Date | Language | copyright of recent doc. | usable sources | Open polls | Posit
 1987 | Lojban | **CC by-sa** | **yes** | | |
 1989 | Dejeru Sapuho | private | no | | |
 1995 | Vorlin | **CC by-nc-sa** | no | | |
+1995 | Folkspraak | ? | ? | | |
 1996 | Tceqli | private | no | | |
 1997 | Noxilo | private | no | | | 
 1997 | Frater2 | private | no | | |
@@ -97,6 +98,7 @@ Date | Language | copyright of recent doc. | usable sources | Open polls | Posit
 2017 | Toaq | **CC by-nc-sa** | no | | |
 2017 | Heli | private | **yes** | | |
 2018 | Koten | private | no | | |
+2018 | Proyo | ? | ? | | |
 2018 | Dunian | **CC by** | **yes** | | |
 ... | Umin | private | no | | |
 
